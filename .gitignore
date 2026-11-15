@@ -1,0 +1,7 @@
+.env
+.venv/
+venv/
+__pycache__
+.pytest_cache/
+cleaned_documents/
+extracted_documents/
